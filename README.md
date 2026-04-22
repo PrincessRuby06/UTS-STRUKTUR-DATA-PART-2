@@ -2,7 +2,7 @@
 Program ini dibuat untuk memenuhi tugas UTS Part 2 dengan mengimplementasikan Deret Fibonacci menggunakan metode rekursif dalam bahasa java.
 
 # Identitas Diri
-<img width="200" height="250" alt="image" src="https://github.com/user-attachments/assets/af54c6e3-5fe4-4a22-9b8f-f2e3a559cc07" />
+<img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/af54c6e3-5fe4-4a22-9b8f-f2e3a559cc07" />
 
 Nama: Princess Ruby Cinta Cantika
 
